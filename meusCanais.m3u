@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="45824" tvg-name="BRA: GLOBO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/GloboNews_logo_%28black%29.svg/1280px-GloboNews_logo_%28black%29.svg.png" group-title="BRASIL: PREMIUM⭐️",BRA: GLOBO NEWS HD
-http://magmas5.com:8000/Yaru2014/lwxaf0mkDP/5133
-#EXTINF:-1,Globo TV BR
-http://234f.pls45tv.site:80/tvsstv/tv.ss/133453
-#EXTINF:-1,Globo News HD BR
-http://234f.pls45tv.site:80/tvsstv/tv.ss/133451
-#EXTINF:-1,Record News BR
-http://234f.pls45tv.site:80/tvsstv/tv.ss/133463
-#EXTINF:-1,Record SP HD BR
-http://234f.pls45tv.site:80/tvsstv/tv.ss/133464
-#EXTINF:-1,RECORDTV HD
-http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16748
 #EXTINF:-1,ANIMAL PLANET HD
 http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16693
 #EXTINF:-1,DISCOVERY CHANNEL HD
@@ -77,3 +65,9 @@ http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31278
 http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31473
 #EXTINF:-1,TELECINE TOUCH FHD
 http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31593
+#EXTINF:-1 tvg-id="" tvg-name="|.BR.| GLOBO NEWS HD" tvg-logo="http://one-iptv.com/imageslogo/pu_canal.png" group-title="BRASIL",|.BR.| GLOBO NEWS HD
+http://tv.pro-ott.com:25443/live/van_hoa/H43M7POS63/103605.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRA| GLOBO MINAS FHD" tvg-logo="" group-title="BRASIL 2",BRA| GLOBO MINAS FHD
+http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/88242.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.BR.| GLOBO MINAS HD" tvg-logo="" group-title="BRASIL",|.BR.| GLOBO MINAS HD
+http://tv.pro-ott.com:25443/live/6532298675/6474849494/103604.ts
